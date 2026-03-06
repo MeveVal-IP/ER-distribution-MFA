@@ -6,7 +6,7 @@ Supplementary data - Large extrachromosomal replicons are widespread across bact
 
 # Supplementary Data
 
-🔗 [Supplementary data](https://molamber.github.io/ERs-distribution-browser/)
+🔗 [Supplementary data](https://meveval-ip.github.io/ER-distribution-MFA/)
 
 This interactive dataset enables exploration of the distribution of chromosomes and extrachromosomal replicons in bacteria, using dynamic visualizations.
 
